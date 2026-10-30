@@ -1,0 +1,3 @@
+berkas_bersih,berkas_rusak,jenis_degradasi,parameter
+bersih_001.jpg,rusak_001_noise.jpg,gauss,sigma=25
+bersih_001.jpg,rusak_001_blur.jpg,blur_gerak,panjang=15;sudut=30
